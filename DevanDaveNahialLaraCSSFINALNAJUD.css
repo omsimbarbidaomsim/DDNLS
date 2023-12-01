@@ -1,0 +1,47 @@
+.profile {
+    width: 20px;
+    height: 20px;
+    background-image:
+    url(https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/371912998_1137201803906574_2559411675045750254_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeGucju4eePWmfnHxCXiRkrpE8jJFDSTXRoTyMkUNJNdGlG7LfATZZ4jrFJziaHEitvDAaliizcP6ndVA6Z0vpEw&_nc_ohc=FAntb_BmKv8AX_A5zUU&_nc_ht=scontent-hkt1-2.xx&oh=00_AfA_hPVrqTIUdID22VrzLxJ0m4SukFbTE5MzAPZAgrejRQ&oe=656D910A);
+}
+
+header {
+    color: white;
+    text-align: left;
+    padding: 1em;
+}
+
+h2 {
+    color: white;
+    padding: 1em;
+}
+
+p {
+    color: white;
+    padding: 1em;
+}
+
+li {
+    color: white;
+}
+
+img {
+    max-width: 15%;
+    height: auto;
+    display: block;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/781/702/513/ryomen-sukuna-jujutsu-kaisen-hd-wallpaper-preview.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+ }
